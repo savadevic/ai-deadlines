@@ -1733,3 +1733,21 @@
   end: 2023-09-08
   sub: NLP
   note: Explore cutting-edge AI topics like ChatGPT, AutoGPT, DALL-E, Midjourney and more at AI World Barcelona — the world's largest generative AI conference.
+  
+  - title: AI DevWorld 2023
+  year: 2023
+  id: aidevworld  # title as lower case + last two digits of year
+  full_name: AI DevWorld  # full conference name
+  link: https://aidevworld.com/
+  deadline: 2023-06-16 23:59
+  abstract_deadline: 2023-06-16 23:59
+  timezone: America/Los_Angeles
+  place: Santa Clara, California, USA
+  date: October 24 - November 2, 2023
+  start: 2023-10-24
+  end: 2023-11-02
+  paperslink: https://sessionize.com/ai-devworld-2023/
+  pwclink: https://sessionize.com/ai-devworld-2023/
+  hindex: 100.0
+  sub: SP
+  note: The world’s largest artificial intelligence dev conference!
